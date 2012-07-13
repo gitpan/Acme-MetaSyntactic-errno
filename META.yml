@@ -17,11 +17,11 @@ name: Acme-MetaSyntactic-errno
 provides:
   Acme::MetaSyntactic::errno:
     file: lib/Acme/MetaSyntactic/errno.pm
-    version: 1.000
+    version: 1.001
 requires:
   Acme::MetaSyntactic: 1.001
   perl: 5.006_002
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/book/Acme-MetaSyntactic-errno
-version: 1.000
+version: 1.001
