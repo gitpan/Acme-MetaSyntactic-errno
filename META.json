@@ -4,7 +4,7 @@
       "Philippe Bruhat (BooK) <book@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.110930",
+   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -35,7 +35,7 @@
    "provides" : {
       "Acme::MetaSyntactic::errno" : {
          "file" : "lib/Acme/MetaSyntactic/errno.pm",
-         "version" : "1.002"
+         "version" : "1.003"
       }
    },
    "release_status" : "stable",
@@ -47,5 +47,5 @@
          "url" : "http://github.com/book/Acme-MetaSyntactic-errno"
       }
    },
-   "version" : "1.002"
+   "version" : "1.003"
 }
